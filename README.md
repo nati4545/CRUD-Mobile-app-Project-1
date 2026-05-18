@@ -16,43 +16,43 @@ Section: 1
 
 ## 🖼️ Screenshots
 
-Below are polished previews of the Supplier Directory app in action. These images are displayed using relative paths so they render correctly on GitHub.
+The following screenshots are embedded directly using relative paths so they render correctly on GitHub.
 
 ### Home and Supplier List
-![Supplier Directory List Screen](<Screeshots/Screenshot 2026-05-18 133420.png>)
-*Supplier list view with search, filter chips, and summary cards.*
+![Supplier Directory Home and List](Screeshots/Screenshot 2026-05-18 133420.png)
+*Supplier list screen with search, filter chips, and supplier summary cards.*
 
 ### Supplier Details
-![Supplier Details Screen](<Screeshots/Screenshot 2026-05-18 133501.png>)
-*Detailed view of a supplier with contact, business, and notes sections.*
+![Supplier Details](Screeshots/Screenshot 2026-05-18 133501.png)
+*Supplier details with contact, business information, and notes.*
 
 ### Add Supplier Form
-![Add Supplier Screen](<Screeshots/Screenshot 2026-05-18 133526.png>)
-*Add supplier form with validation, category/status dropdowns, and notes field.*
+![Add Supplier Form](Screeshots/Screenshot 2026-05-18 133526.png)
+*Add supplier screen with validation for name, category, status, and notes.*
 
 ### Edit Supplier Form
-![Edit Supplier Screen](<Screeshots/Screenshot 2026-05-18 133636.png>)
+![Edit Supplier Form](Screeshots/Screenshot 2026-05-18 133636.png)
 *Edit supplier screen showing an existing supplier loaded into the form.*
 
 ### Loading and Empty States
-![Loading and Empty States](<Screeshots/Screenshot 2026-05-18 133823.png>)
-*App loading and empty states display polished user feedback while data loads or is missing.*
+![Loading and Empty States](Screeshots/Screenshot 2026-05-18 133823.png)
+*Loading and empty states that display clear feedback while data is loading or unavailable.*
 
 ### Error and Confirmation States
-![Error and Confirmation Screen](<Screeshots/Screenshot 2026-05-18 133841.png>)
-*Error state handling and delete confirmation dialogs for better UX.*
+![Error and Confirmation States](Screeshots/Screenshot 2026-05-18 133841.png)
+*Error handling, retry prompts, and delete confirmation dialog for safer actions.*
 
 ### Search and Filter Experience
-![Search and Filter](<Screeshots/Screenshot 2026-05-18 133900.png>)
-*Search functionality across supplier fields with status-based filtering.*
+![Search and Filter](Screeshots/Screenshot 2026-05-18 133900.png)
+*Search and status filtering across the supplier directory.*
 
 ### Responsive and Professional UI
-![Professional UI](<Screeshots/Screenshot 2026-05-18 133955.png>)
-*Modern enterprise UI styling with clear typography and spacing.*
+![Responsive Professional UI](Screeshots/Screenshot 2026-05-18 133955.png)
+*Modern interface styling with consistent spacing, typography, and components.*
 
 ### Full CRUD Flow
-![CRUD Flow](<Screeshots/Screenshot 2026-05-18 134054.png>)
-*Complete create, update, and delete supplier workflow with feedback.*
+![Full CRUD Flow](Screeshots/Screenshot 2026-05-18 134054.png)
+*Complete create, update, and delete workflow with feedback and confirmations.*
 
 ## ✨ Key Features
 

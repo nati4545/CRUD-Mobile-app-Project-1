@@ -1,3 +1,4 @@
+
 # Supplier Directory - Flutter Mobile Application
 
 A professional, production-grade Flutter mobile application for managing supplier records using clean architecture, BLoC state management, and modern UI/UX patterns.
@@ -16,43 +17,16 @@ Section: 1
 
 ## 🖼️ Screenshots
 
-The following screenshots are embedded directly using relative paths so they render correctly on GitHub.
+<img width="960" height="510" alt="Screenshot 2026-05-18 133636" src="https://github.com/user-attachments/assets/1706cda1-2e7a-403e-9de6-d7b780bd2ecd" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133526" src="https://github.com/user-attachments/assets/35a836c1-ea75-47b0-9170-6a26a68b38b1" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133501" src="https://github.com/user-attachments/assets/02fdff96-7549-4d89-ae94-4897919a1e91" />
+<img width="778" height="490" alt="Screenshot 2026-05-18 133420" src="https://github.com/user-attachments/assets/0f0c4e2a-988d-47a2-81a7-9cb55bb1907d" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 134054" src="https://github.com/user-attachments/assets/241a3425-1d6f-400e-b6d3-1192410cd965" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133955" src="https://github.com/user-attachments/assets/280996c6-1d9d-4239-8a1e-a21b8c296ec0" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133900" src="https://github.com/user-attachments/assets/f9ca930b-90be-4a8b-a997-be3c8ac61f27" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133841" src="https://github.com/user-attachments/assets/e10a46ca-3c90-4705-8d6a-dcc384e03fd4" />
+<img width="960" height="510" alt="Screenshot 2026-05-18 133823" src="https://github.com/user-attachments/assets/865abef6-5252-4776-a082-bd0bbe722a19" />
 
-### Home and Supplier List
-![Supplier Directory Home and List](Screenshots/Screenshot 2026-05-18 133420.png)
-*Supplier list screen with search, filter chips, and supplier summary cards.*
-
-### Supplier Details
-![Supplier Details](Screenshots/Screenshot 2026-05-18 133501.png)
-*Supplier details with contact, business information, and notes.*
-
-### Add Supplier Form
-![Add Supplier Form](Screenshots/Screenshot 2026-05-18 133526.png)
-*Add supplier screen with validation for name, category, status, and notes.*
-
-### Edit Supplier Form
-![Edit Supplier Form](Screenshots/Screenshot 2026-05-18 133636.png)
-*Edit supplier screen showing an existing supplier loaded into the form.*
-
-### Loading and Empty States
-![Loading and Empty States](Screenshots/Screenshot 2026-05-18 133823.png)
-*Loading and empty states that display clear feedback while data is loading or unavailable.*
-
-### Error and Confirmation States
-![Error and Confirmation States](Screenshots/Screenshot 2026-05-18 133841.png)
-*Error handling, retry prompts, and delete confirmation dialog for safer actions.*
-
-### Search and Filter Experience
-![Search and Filter](Screenshots/Screenshot 2026-05-18 133900.png)
-*Search and status filtering across the supplier directory.*
-
-### Responsive and Professional UI
-![Responsive Professional UI](Screenshots/Screenshot 2026-05-18 133955.png)
-*Modern interface styling with consistent spacing, typography, and components.*
-
-### Full CRUD Flow
-![Full CRUD Flow](Screenshots/Screenshot 2026-05-18 134054.png)
-*Complete create, update, and delete workflow with feedback and confirmations.*
 
 ## ✨ Key Features
 

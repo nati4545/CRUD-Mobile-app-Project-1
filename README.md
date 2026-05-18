@@ -1,7 +1,7 @@
 
 # Supplier Directory - Flutter Mobile Application
 
-A professional, production-grade Flutter mobile application for managing supplier records using clean architecture, BLoC state management, and modern UI/UX patterns.
+A simple CRUD Flutter mobile application for managing supplier records using clean architecture, BLoC state management, and modern UI/UX patterns.
 
 ## 🎯 Overview
 

@@ -1,0 +1,124 @@
+﻿Analyzing Mobile App Individual Project 1...                    
+
+   info - The line length exceeds the 80-character limit - lib\core\constants\app_constants.dart:16:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\core\constants\app_constants.dart:18:81 - lines_longer_than_80_chars
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:12:3 - use_super_parameters
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:19:3 - use_super_parameters
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:26:3 - use_super_parameters
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:33:3 - use_super_parameters
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:40:3 - use_super_parameters
+   info - Parameters ''message' and 'code'' could be super parameters - lib\core\errors\failures.dart:47:3 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\core\theme\app_theme.dart:12:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\core\theme\app_theme.dart:103:81 - lines_longer_than_80_chars
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\core\theme\app_theme.dart:161:18 - argument_type_not_assignable
+   info - The line length exceeds the 80-character limit - lib\core\utils\validation_utils.dart:26:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:20:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:21:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:57:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:83:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:100:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\data\datasources\supplier_remote_datasource.dart:109:81 - lines_longer_than_80_chars
+   info - Sort directive sections alphabetically - lib\data\repositories\supplier_repository_impl.dart:7:1 - directives_ordering
+   info - The line length exceeds the 80-character limit - lib\data\repositories\supplier_repository_impl.dart:39:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\domain\repositories\supplier_repository.dart:8:81 - lines_longer_than_80_chars
+warning - Unused import: 'package:supplier_directory/domain/repositories/supplier_repository.dart' - lib\main.dart:7:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\main.dart:17:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\bloc\supplier_bloc.dart:49:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\bloc\supplier_bloc.dart:50:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\bloc\supplier_bloc.dart:159:81 - lines_longer_than_80_chars
+warning - The value of the local variable 'activeCount' isn't used - lib\presentation\bloc\supplier_bloc.dart:187:13 - unused_local_variable
+warning - The value of the local variable 'inactiveCount' isn't used - lib\presentation\bloc\supplier_bloc.dart:188:13 - unused_local_variable
+   info - The line length exceeds the 80-character limit - lib\presentation\bloc\supplier_bloc.dart:188:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\bloc\supplier_state.dart:36:81 - lines_longer_than_80_chars
+   info - Parameter 'key' could be a super parameter - lib\presentation\screens\add_supplier_screen.dart:15:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:100:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:108:81 - lines_longer_than_80_chars
+   info - 'WillPopScope' is deprecated and shouldn't be used. Use PopScope instead. The Android predictive back feature will not work with WillPopScope. This feature was deprecated after v3.12.0-1.0.pre - lib\presentation\screens\add_supplier_screen.dart:124:12 - deprecated_member_use
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:187:81 - lines_longer_than_80_chars
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:200:37 - prefer_const_constructors
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:206:81 - lines_longer_than_80_chars
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:214:37 - prefer_const_constructors
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:220:81 - lines_longer_than_80_chars
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:228:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:242:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:256:37 - prefer_const_constructors
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\presentation\screens\add_supplier_screen.dart:269:25 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:270:37 - prefer_const_constructors
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:275:81 - lines_longer_than_80_chars
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\presentation\screens\add_supplier_screen.dart:294:25 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:295:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\add_supplier_screen.dart:320:37 - prefer_const_constructors
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:343:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\add_supplier_screen.dart:346:81 - lines_longer_than_80_chars
+   info - Parameter 'key' could be a super parameter - lib\presentation\screens\supplier_details_screen.dart:16:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_details_screen.dart:29:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_details_screen.dart:45:81 - lines_longer_than_80_chars
+   info - Don't use 'BuildContext's across async gaps - lib\presentation\screens\supplier_details_screen.dart:48:24 - use_build_context_synchronously
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_details_screen.dart:122:81 - lines_longer_than_80_chars
+   info - Use 'const' with the constructor to improve performance - lib\presentation\screens\supplier_details_screen.dart:149:35 - prefer_const_constructors
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_details_screen.dart:225:81 - lines_longer_than_80_chars
+warning - Unused import: 'package:supplier_directory/core/constants/app_constants.dart' - lib\presentation\screens\supplier_list_screen.dart:3:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\presentation\screens\supplier_list_screen.dart:17:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:56:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:134:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:137:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:180:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:251:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:266:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:290:81 - lines_longer_than_80_chars
+   info - The line length exceeds the 80-character limit - lib\presentation\screens\supplier_list_screen.dart:314:81 - lines_longer_than_80_chars
+warning - Unused import: 'package:supplier_directory/core/constants/app_constants.dart' - lib\presentation\widgets\delete_confirmation_dialog.dart:2:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\delete_confirmation_dialog.dart:10:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\delete_confirmation_dialog.dart:23:14 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\widgets\delete_confirmation_dialog.dart:24:19 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\delete_confirmation_dialog.dart:25:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\delete_confirmation_dialog.dart:60:17 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\empty_state_widgets.dart:11:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\empty_state_widgets.dart:32:52 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\empty_state_widgets.dart:74:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\empty_state_widgets.dart:95:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\error_state_widgets.dart:11:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\error_state_widgets.dart:32:45 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\error_state_widgets.dart:76:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\widgets\error_state_widgets.dart:85:81 - lines_longer_than_80_chars
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\error_state_widgets.dart:95:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\error_state_widgets.dart:115:9 - use_super_parameters
+   info - Constructors for public widgets should have a named 'key' parameter - lib\presentation\widgets\error_state_widgets.dart:133:3 - use_key_in_widget_constructors
+warning - Unused import: 'package:supplier_directory/core/theme/app_theme.dart' - lib\presentation\widgets\loading_widgets.dart:2:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\loading_widgets.dart:9:9 - use_super_parameters
+   info - The line length exceeds the 80-character limit - lib\presentation\widgets\loading_widgets.dart:14:81 - lines_longer_than_80_chars
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\loading_widgets.dart:84:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:88:12 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:90:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:92:16 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\widgets\loading_widgets.dart:94:21 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:95:13 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\widgets\loading_widgets.dart:97:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:98:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:99:26 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\presentation\widgets\loading_widgets.dart:101:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:102:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:109:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:118:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\loading_widgets.dart:126:13 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\loading_widgets.dart:141:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\loading_widgets.dart:156:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\supplier_widgets.dart:8:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\supplier_widgets.dart:70:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\supplier_widgets.dart:106:29 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\supplier_widgets.dart:135:25 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\supplier_widgets.dart:155:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\presentation\widgets\supplier_widgets.dart:172:15 - prefer_const_constructors
+   info - Parameter 'key' could be a super parameter - lib\presentation\widgets\supplier_widgets.dart:210:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\supplier_widgets.dart:239:36 - deprecated_member_use
+warning - The asset directory 'assets/images/' doesn't exist - pubspec.yaml:46:7 - asset_directory_does_not_exist
+warning - The asset directory 'assets/icons/' doesn't exist - pubspec.yaml:47:7 - asset_directory_does_not_exist
+
+flutter : 113 issues found. (ran in 3.3s)
+At line:1 char:96
++ ...  App Individual Project 1"; flutter analyze > analyze_output.txt 2>&1
++                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (113 issues found. (ran in 3.3s):S 
+   tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

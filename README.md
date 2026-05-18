@@ -19,39 +19,39 @@ Section: 1
 The following screenshots are embedded directly using relative paths so they render correctly on GitHub.
 
 ### Home and Supplier List
-![Supplier Directory Home and List](Screeshots/Screenshot 2026-05-18 133420.png)
+![Supplier Directory Home and List](Screenshots/Screenshot 2026-05-18 133420.png)
 *Supplier list screen with search, filter chips, and supplier summary cards.*
 
 ### Supplier Details
-![Supplier Details](Screeshots/Screenshot 2026-05-18 133501.png)
+![Supplier Details](Screenshots/Screenshot 2026-05-18 133501.png)
 *Supplier details with contact, business information, and notes.*
 
 ### Add Supplier Form
-![Add Supplier Form](Screeshots/Screenshot 2026-05-18 133526.png)
+![Add Supplier Form](Screenshots/Screenshot 2026-05-18 133526.png)
 *Add supplier screen with validation for name, category, status, and notes.*
 
 ### Edit Supplier Form
-![Edit Supplier Form](Screeshots/Screenshot 2026-05-18 133636.png)
+![Edit Supplier Form](Screenshots/Screenshot 2026-05-18 133636.png)
 *Edit supplier screen showing an existing supplier loaded into the form.*
 
 ### Loading and Empty States
-![Loading and Empty States](Screeshots/Screenshot 2026-05-18 133823.png)
+![Loading and Empty States](Screenshots/Screenshot 2026-05-18 133823.png)
 *Loading and empty states that display clear feedback while data is loading or unavailable.*
 
 ### Error and Confirmation States
-![Error and Confirmation States](Screeshots/Screenshot 2026-05-18 133841.png)
+![Error and Confirmation States](Screenshots/Screenshot 2026-05-18 133841.png)
 *Error handling, retry prompts, and delete confirmation dialog for safer actions.*
 
 ### Search and Filter Experience
-![Search and Filter](Screeshots/Screenshot 2026-05-18 133900.png)
+![Search and Filter](Screenshots/Screenshot 2026-05-18 133900.png)
 *Search and status filtering across the supplier directory.*
 
 ### Responsive and Professional UI
-![Responsive Professional UI](Screeshots/Screenshot 2026-05-18 133955.png)
+![Responsive Professional UI](Screenshots/Screenshot 2026-05-18 133955.png)
 *Modern interface styling with consistent spacing, typography, and components.*
 
 ### Full CRUD Flow
-![Full CRUD Flow](Screeshots/Screenshot 2026-05-18 134054.png)
+![Full CRUD Flow](Screenshots/Screenshot 2026-05-18 134054.png)
 *Complete create, update, and delete workflow with feedback and confirmations.*
 
 ## ✨ Key Features

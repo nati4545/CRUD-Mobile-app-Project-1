@@ -5,7 +5,7 @@ A simple CRUD Flutter mobile application for managing supplier records using cle
 
 ## 🎯 Overview
 
-Supplier Directory is a sophisticated procurement management tool designed for businesses to create, read, update, and delete supplier records with a polished, enterprise-level interface. The app integrates with a real public API and provides comprehensive CRUD functionality with robust error handling, loading states, and user feedback mechanisms.
+Supplier Directory is a simple CRUD based procurement management tool designed for businesses to create, read, update, and delete supplier records with a polished, enterprise-level interface. The app integrates with a real public API and provides comprehensive CRUD functionality with robust error handling, loading states, and user feedback mechanisms.
 
 ## 👤 Author Information
 

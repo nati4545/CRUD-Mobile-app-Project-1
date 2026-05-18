@@ -308,10 +308,6 @@ Potential improvements for production deployment:
 - Analytics dashboard
 - Multi-language support
 
-## 📄 License
-
-This project is provided as a professional template for supplier management applications.
-
 ## 👨‍💼 Architecture Principles
 
 1. **Separation of Concerns**: Each layer has a specific responsibility
@@ -321,16 +317,6 @@ This project is provided as a professional template for supplier management appl
 5. **Maintainability**: Clear code organization and consistent patterns
 6. **Error Handling**: Comprehensive error management at all layers
 7. **User Experience**: Professional UI with proper feedback mechanisms
-
-## 🤝 Contributing
-
-When extending this application:
-1. Follow the established folder structure
-2. Use BLoC for state management
-3. Implement proper error handling
-4. Add loading and empty states
-5. Maintain code quality standards
-6. Add appropriate validations
 
 ---
 
